@@ -9,7 +9,7 @@ You're gonna need following software:
 * Visual Studio Code
 * PlatformIO Plugin
 
-Once you have all the software installed on your machine, the import the project, compile and flash it on your ESP32 board.
+Once you have all the software installed on your machine, then import the project, compile and flash it on your ESP32 board.
 
 ## How to Setup the Firmware
 
